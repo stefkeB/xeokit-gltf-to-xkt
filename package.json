@@ -19,7 +19,7 @@
     },
     "preferGlobal": true,
     "bin": {
-        "gltf2xkt": "./gltf2xkt.js"
+        "gltf2xkt": "gltf2xkt.js"
     },
     "scripts": {
         "publish": "npm publish --access public"
